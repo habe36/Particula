@@ -1,0 +1,55 @@
+License Agreement
+
+1. As used herein, Software means Particula Numerica, copyright of
+which is retained by Hiroshi ABE (referred to as US, hereafter).
+
+2. Subject to this Agreement, you may use, copy, and modify Software,
+keeping your own computers.
+ 
+3. You may not distribute any copies, modified versions or derivative
+works of Software or any portions thereof to any third party. 
+
+4. You agree to send your comments, suggestions, bug reports regarding
+Software and, modified versions, derivative works derived from
+Software with any Github's functions.
+We may use, copy, modify and distribute them.
+You acknowledge that you do not acquire any rights of ownership or
+title in Software or sequential versions of Software  modified by 
+based on your comments, suggestions, etc, which remains the sole
+property of US.
+
+5. You acknowledge that nothing in this Agreement authorizes you to
+use trademark or trade name of US nor grants any license except as
+expressly provided herein.
+
+6. No copies, modified versions or derivative works of Software shall
+be exported without complying with all applicable laws and regulations
+relating to export control. 
+ 
+7. You acknowledge that this software is experimental and may contain
+errors or bugs. WE will not be obliged to make error corrections or
+bug fixes or provide you any support with regard to Software. Software
+is provided "as is".  WE disclaims all representations and
+warranties, whether expressed or implied with regard to Software,
+including, but not limited to warranties of satisfactory quality,
+fitness for a particular purpose, and warranties regarding
+non-infringement of third parties’ rights. WE shall not be liable for
+any damages, including general, special, incidental, or consequential
+damages arising out of the use or inability to use Software even if
+NEC has been advised of the possibility of such damages.
+
+8. If you want to use any portion of Software in commercial
+applications or for designing commercial products, you shall obtain
+from US a separate license.
+
+9. You may terminate your license at any time and WE may terminate
+your license upon notification if you fail to comply with any of the
+provisions of this Agreement. In such cases, you shall immediately
+destroy all copies, modified versions or derivative works of Software.
+
+20th June 2017
+Hiroshi ABE
+at Tokorozawa, JAPAN
+
+
+
